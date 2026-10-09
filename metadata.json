@@ -1,0 +1,6 @@
+{
+  "name": "TransitVoice",
+  "description": "Secure Voice-Integrated Offline Transport Assistance System with AI-Based Cybersecurity Protection, realistic geospatial mapping, and biometric verification.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
